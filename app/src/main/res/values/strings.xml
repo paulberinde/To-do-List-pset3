@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">paulberinde-pset3</string>
+    <string name="delete_guide">Long-press on item for deletion</string>
+    <string name="add_button_text">Add To List</string>
+    <string name="textBox_text">Type your item here!</string>
+    <string name="title">Title</string>
+</resources>

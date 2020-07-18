@@ -1,4 +1,4 @@
-# paulberinde-pset3
+# To do List - pset 3
 ToDo List App
 
 Implementation of a ToDo List App that utilizes SQLite to store the given tasks. App supports screen Rotation and updates ListView after each Entry.
